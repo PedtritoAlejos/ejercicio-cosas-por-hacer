@@ -1,0 +1,7 @@
+p.inactiva {color: darkred; text-decoration-line: line-through;}
+p.activa {color: navy; text-decoration:underline;}
+
+.resumen{
+    background-color: darkblue;
+    color: white;
+}
